@@ -1,4 +1,4 @@
-# powerbi-dashboard
+# Power BI - Year to Date Sales Dashboard for a Fictional Chocolate Company
 
 A Beginner's project in Data Analysis
 
